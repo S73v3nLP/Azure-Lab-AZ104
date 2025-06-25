@@ -1,3 +1,6 @@
-# Azure-Lab-AZ104
-## Laboratótio de Desafio do BootCamp da DIO.me
-Descrição da criação e configuração do BACKUP de uma máquina virtual Windows Server no AZURE
+# Criação de Infraestrutra básica para uma Máquina Virtual no AZURE
+
+## CRIANDO UM _Resource Group_ 
+No painel esquerdo do portal, clique em "Grupos de recursos". 
+Na nova janela, clique em "+ Adicionar". 
+
